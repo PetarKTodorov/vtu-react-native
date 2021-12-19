@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "quizziz",
+    "slug": "quizziz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "quizziz"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693178709378",
+    "firebase_url": "https://gettoknowusdatabase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gettoknowusdatabase",
+    "storage_bucket": "gettoknowusdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693178709378:android:838980b69bbb57375f4b9b",
+        "android_client_info": {
+          "package_name": "com.quizziz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693178709378-vnq4tqo5taicbhiei6cqqjkm882mo8os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_ExJx2b1kFonugMe7zb2kfcEiqLEYn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693178709378-vnq4tqo5taicbhiei6cqqjkm882mo8os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
